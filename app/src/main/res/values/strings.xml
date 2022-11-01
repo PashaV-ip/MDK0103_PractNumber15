@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Практическая номер 15</string>
+    <string name="header">
+        """
+        Введите информацию
+        о животном
+    """</string>
+    <string name="input_type_animal">Введите вид животного</string>
+    <string name="input_breed_animal">Введите породу животного</string>
+    <string name="input_year_of_birth">Введите год рождения животного</string>
+    <string name="input_month_of_birth">Введите месяц рождения животного</string>
+
+
+    <!-- Подсказки EditText -ов -->
+    <string name="hint_type_animal">Вид</string>
+    <string name="hint_breed_animal">Порода</string>
+    <string name="hint_year_of_birth">Год</string>
+    <string name="hint_month_of_birth">Месяц</string>
+</resources>
